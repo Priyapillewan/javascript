@@ -38,7 +38,7 @@ function monthOfYear(month) {
       break;
 
     default:
-    console.log(`Invalid Input --> Month ${month} `);
+    console.log(`Month ${month} --> Invalid Input `);
       break;
   }
 }
