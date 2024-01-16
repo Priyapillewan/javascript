@@ -1,0 +1,41 @@
+
+.container{
+    margin: 5% auto 0;
+    width: 30%;
+
+}
+
+table , th, tr, td{
+    border: 1px solid rgb(227, 214, 214);
+    border-collapse: collapse;
+    text-align: center;
+    
+
+}   
+
+.green{
+    background-color: rgb(64,153,55);
+    color: white;
+    margin: 15px;
+    padding: 10px;
+   
+}
+
+.orange{
+    background-color: rgb(234,140,16);
+    color: white;
+    margin: 15px;
+    padding: 10px;
+   
+}
+
+.img{
+    height: 40%;
+    width: 40%;
+
+}
+
+.data{
+    margin: 20px;
+    padding: 20px;
+}
