@@ -45,6 +45,7 @@ const arrayStudentsFromPune = arrayStudents.filter( (element) => {
     return element.city=='Pune';
 } );
 console.log(arrayStudentsFromPune);
+
 arrayStudentsFromPune.forEach(element => {
     console.log(element);
 });
