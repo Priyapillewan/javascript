@@ -61,7 +61,7 @@ arrayId.forEach(elemet => {
 
 console.log(`                                                          `);
 console.log(`========================Step4=========================================================================================`);
-
+console.log(`Employee whose name starts with 'A' or 'V' or 'M' :`);
 const arrayName = arrayEmps.filter( element => {
     return element.emp_name.startsWith("A") || element.emp_name.startsWith("V") || element.emp_name.startsWith("M");
 })
