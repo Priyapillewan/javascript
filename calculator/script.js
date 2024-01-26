@@ -55,7 +55,8 @@ const clearField = document.querySelectorAll("input");
 
 clearButton.addEventListener("click", () => {
     clearField.forEach( (input) => (input.value = ""))
-   
+    resultValue.innerHTML = 0;
+
 })
 
 
