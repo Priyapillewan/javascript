@@ -1,3 +1,5 @@
+ 
+ 
  var myFullName;
  console.log(myFullName);
  var myFullName="Priyanka Pillewan";
@@ -31,3 +33,16 @@
  var isMarried="Yes";
  console.log("Is Married?",isMarried );
  console.log("----------------------------------------------------------------------------------");
+
+
+
+var txt = "I am fine";
+console.log(txt.indexOf("fine"));
+
+console.log(txt.lastIndexOf("am"));
+
+console.log(txt.replace("am", "was"));
+
+console.log(txt.charCodeAt(0));
+console.log(txt.charCodeAt(2));
+

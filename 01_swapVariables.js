@@ -1,3 +1,4 @@
+
 console.log("=============================step1=================================");
 var sweety="Sweety";
 var cutie="Cutie";

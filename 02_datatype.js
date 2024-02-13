@@ -1,3 +1,5 @@
+
+
 var firstName = "Priyanka";
 console.log(typeof firstName);
 
